@@ -1,0 +1,16 @@
+*.asm
+*.cp
+*.mcl
+*.ini
+*.lst
+*.mcpds_callertable.txt
+*.mcpds
+*.dct
+*.user.dic
+*.log
+*.hex
+*.dlt
+*.cfg
+*.brk
+*.bmk
+*.dbg
